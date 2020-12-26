@@ -1,0 +1,28 @@
+{
+  "name": "@hexageek1337/Disbot",
+  "version": "1.0.0",
+  "description": "💬 Bot for Discord Communication Apps with NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hexageek1337/Disbot.git"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "bot",
+    "typescript",
+    "automation",
+    "nodejs"
+  ],
+  "author": "Denny Septian Panggabean",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hexageek1337/Disbot/issues"
+  },
+  "homepage": "https://github.com/hexageek1337/Disbot#readme",
+  "engines": {
+    "node": ">=12.18.3"
+  },
+  "dependencies": {}
+}
